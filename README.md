@@ -1,12 +1,12 @@
 
-##
-
  <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8a2be2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-                                                                                                                    
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=e0b0ff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+Bem+vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
+  </a>  
+<div align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&colorf=dda0dd&center=true&vCenter=true&random=false&width=524&lines=+MALLU.AGUILAR+%E2%8A%B9+" alt="Typing SVG">
+  </a>  
+  </div>
 
 ##
 
@@ -16,13 +16,17 @@
 
 [![malluaguilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malluaguilar&show_icons=true&theme=vision-friendly-dark)](https://github.com/malluaguilar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malluaguilar&layout=compact&theme=midnight-purple)](https://github.com/malluaguilar/github-readme-stats)
+
+<h3 align="left">✮ Experiências ✮</h3>
+
 <div style="display: inline_block"><br>
+ 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="left">✮ Entre em contato comigo! ✮</h3>
 
 <div style= "display: inline_block"><br>
   <a href="https://instagram.com/mallu.aguilar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white":FFFtarget="_blank"></a>
