@@ -7,23 +7,23 @@
 
 ##
 
-<p align="center">Estudante de Desenvolvimento de Sistemas no Senai Italo Bologna - Itu/SP. Atualmente estou cursando o 2° ano do Ensino Médio com previsão de término em dezembro de 2026.
+<p align="center"> Sou a Maria Luiza, tenho 16 anos e moro no interior de São Paulo.
+ Iniciei os estudos sobre tecnologia com o intuito de me especializar e conhecer mais sobre a área. Atualmente sou estudante de Desenvolvimento de Sistemas no Senai Italo Bologna - Itu/SP.
 
   ##
 
 [![malluaguilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malluaguilar&show_icons=true&theme=jolly)](https://github.com/malluaguilar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malluaguilar&layout=compact&theme=jolly)](https://github.com/malluaguilar/github-readme-stats)
 
-<h3 align="left">✮ Experiências ✮</h3>
+<h3 align="left"> Experiências 🎯 </h3>
 
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
 
-<h3 align="left">✮ Entre em contato comigo! ✮</h3>
+<h3 align="left"> Entre em contato comigo! 📩 </h3>
 
 <div style= "display: inline_block"><br>
   <a href="https://instagram.com/mallu.aguilar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white":FFFtarget="_blank"></a>
@@ -31,7 +31,8 @@
 </div>
 
   ##
-  
+  <h3 align="left"> Snake!🐍 </h3>
+
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malluaguilar/malluaguilar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malluaguilar/malluaguilar/output/github-contribution-grid-snake-dark.svg">
