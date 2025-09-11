@@ -11,10 +11,12 @@
  Iniciei os estudos sobre tecnologia com o intuito de me especializar e conhecer mais sobre a área. Atualmente sou estudante de Desenvolvimento de Sistemas no Senai Italo Bologna - Itu/SP.
 
   ##
-
-[![malluaguilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malluaguilar&show_icons=true&theme=jolly)](https://github.com/malluaguilar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malluaguilar&layout=compact&theme=jolly)](https://github.com/malluaguilar/github-readme-stats)
-
+<div>
+ <a href="https://github.com/malluaguilar">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=malluaguilar&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malluaguilar&layout=compact&langs_count-16&theme=jolly"/>
+</div>
+  
 <h3 align="left"> Experiências 🎯 </h3>
 
 <div style="display: inline_block"><br>
